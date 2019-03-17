@@ -1,2 +1,3 @@
 # Machine-Learning-Projects
-Collection of all my academic projects in ML 
+This are few of my ML modelling projects done. If you have any questions fell free to message me.
+
